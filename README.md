@@ -59,6 +59,5 @@ L'objectif du projet est d'explorer et de nettoyer les données pour évaluer la
 Démontrer qu'il est possible d'améliorer la saisie des données d’**Open Food Facts** en développant un **système de suggestion automatique**, tout en respectant les normes du **RGPD** et en garantissant des données fiables.
 
 ---
-📅 **Délai** : Mission à réaliser dans un temps limité.
 👥 **Compétences requises** : Python, Pandas, Analyse de données, Visualisation.
 🌍 **Source des données** : Open Food Facts.
